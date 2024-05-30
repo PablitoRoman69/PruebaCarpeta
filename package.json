@@ -1,8 +1,8 @@
 {
-  "name": "azle-api-rest-nextjs",
+  "name": "trabajojessi",
   "version": "0.2.1",
   "license": "MIT",
-  "author": "Adrián Darío Hidalgo Flores",
+  "author": "Juan Pablo",
   "workspaces": [
     "backend",
     "frontend"
